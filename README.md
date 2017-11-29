@@ -55,3 +55,8 @@ fuxiaosongdeMac-mini:front fuxiaosong$ vue init webpack POS
 
 fuxiaosongdeMac-mini:front fuxiaosong$
 ```  
+
+
+---  
+
+[基于 Docker 打造前端持续集成开发环境](https://juejin.im/post/5a142d7b6fb9a0451170c2c7)
